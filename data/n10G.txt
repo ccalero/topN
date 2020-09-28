@@ -1,0 +1,1 @@
+To generate this file, use command: python genFile.py --size 10
